@@ -1,0 +1,2 @@
+# Population_model
+This notebook uses the california cities csv file.The model shows the relationship between population for each city against total area and elevation in feet.Used numpy library to normalize values and  used sci-kit learn to fit a linear regression model using the training data.Prediction is done using the test data.Evaluation model performance using mean squared and mean absolute errors.
